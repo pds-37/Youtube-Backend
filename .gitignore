@@ -2,3 +2,4 @@
 .env.sample
 .prettierignore
 .prettierrc
+node_modules/
